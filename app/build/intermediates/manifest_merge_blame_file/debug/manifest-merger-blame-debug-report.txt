@@ -1,0 +1,165 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.myself.dienstagram"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+11-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:5:5-77
+11-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.VIBRATE" />
+12-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:6:5-65
+12-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:6:22-63
+13
+14    <application
+14-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:8:5-57:19
+15        android:allowBackup="true"
+15-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+16-->[com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+17        android:dataExtractionRules="@xml/data_extraction_rules"
+17-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:10:9-65
+18        android:debuggable="true"
+19        android:extractNativeLibs="false"
+20        android:fullBackupContent="@xml/backup_rules"
+20-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:11:9-54
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:13:9-41
+23        android:supportsRtl="true"
+23-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:14:9-35
+24        android:testOnly="true"
+25        android:theme="@style/Theme.Dienstagram" >
+25-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:15:9-49
+26        <activity
+26-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:17:9-25:20
+27            android:name="com.myself.dienstagram.MainActivity"
+27-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:18:13-41
+28            android:exported="true" >
+28-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:19:13-36
+29            <intent-filter>
+29-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:20:13-24:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:21:17-69
+30-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:21:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:23:17-77
+32-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:23:27-74
+33            </intent-filter>
+34        </activity>
+35        <activity android:name="com.myself.dienstagram.WarningActivity" />
+35-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:27:9-52
+35-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:27:19-50
+36        <activity android:name="com.myself.dienstagram.HomeActivity" />
+36-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:28:9-49
+36-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:28:19-47
+37        <activity
+37-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:29:9-82
+38            android:name="com.myself.dienstagram.mylikeActivity"
+38-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:29:19-49
+39            android:label="AlertActivity" />
+39-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:29:50-79
+40        <activity
+40-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:30:9-85
+41            android:name="com.myself.dienstagram.DirectMessageActivity"
+41-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:30:19-56
+42            android:label="DMActivity" />
+42-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:30:57-83
+43        <activity
+43-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:31:9-82
+44            android:name="com.myself.dienstagram.dmchatActivity"
+44-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:31:19-49
+45            android:label="dmchatActivity" />
+45-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:31:50-80
+46        <activity
+46-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:32:9-96
+47            android:name="com.myself.dienstagram.popup1Activity"
+47-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:32:19-49
+48            android:theme="@android:style/Theme.Dialog" />
+48-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:32:50-93
+49        <activity android:name="com.myself.dienstagram.DMActivity2" />
+49-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:33:9-48
+49-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:33:19-46
+50        <activity
+50-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:34:9-95
+51            android:name="com.myself.dienstagram.popup2Activity"
+51-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:34:19-49
+52            android:theme="@android:style/Theme.Dialog" />
+52-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:34:50-93
+53        <activity android:name="com.myself.dienstagram.Na1Activity" />
+53-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:35:9-48
+53-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:35:19-46
+54        <activity android:name="com.myself.dienstagram.Na2Activity" />
+54-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:36:9-48
+54-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:36:19-46
+55        <activity android:name="com.myself.dienstagram.DMActivity3" />
+55-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:37:9-48
+55-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:37:19-46
+56        <activity android:name="com.myself.dienstagram.Na3Activity" />
+56-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:38:9-48
+56-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:38:19-46
+57        <activity android:name="com.myself.dienstagram.home2Activity" />
+57-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:39:9-50
+57-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:39:19-48
+58        <activity android:name="com.myself.dienstagram.DirectMessageActivity2" />
+58-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:40:9-60
+58-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:40:19-57
+59        <activity android:name="com.myself.dienstagram.Na4Activity" />
+59-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:41:9-49
+59-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:41:19-46
+60        <activity android:name="com.myself.dienstagram.ImageView1" />
+60-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:42:9-47
+60-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:42:19-45
+61        <activity android:name="com.myself.dienstagram.DMActivity4" />
+61-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:43:9-49
+61-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:43:19-46
+62        <activity android:name="com.myself.dienstagram.Na5Activity" />
+62-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:44:9-49
+62-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:44:19-46
+63        <activity android:name="com.myself.dienstagram.DMActivity5" />
+63-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:45:9-49
+63-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:45:19-46
+64        <activity
+64-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:46:9-95
+65            android:name="com.myself.dienstagram.popup3Activity"
+65-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:46:19-49
+66            android:theme="@android:style/Theme.Dialog" />
+66-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:46:50-93
+67        <activity android:name="com.myself.dienstagram.DMActivity6" />
+67-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:47:9-48
+67-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:47:19-46
+68        <activity android:name="com.myself.dienstagram.D_12vidActivity" />
+68-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:48:9-53
+68-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:48:19-50
+69        <activity android:name="com.myself.dienstagram.home3Activity" />
+69-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:49:9-51
+69-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:49:19-48
+70        <activity android:name="com.myself.dienstagram.Na6Activity" />
+70-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:50:9-49
+70-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:50:19-46
+71        <activity android:name="com.myself.dienstagram.home4Activity" />
+71-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:51:9-51
+71-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:51:19-48
+72        <activity android:name="com.myself.dienstagram.DirectMessageActivity3" />
+72-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:52:9-60
+72-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:52:19-57
+73        <activity android:name="com.myself.dienstagram.DMActivity7" />
+73-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:53:9-49
+73-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:53:19-46
+74        <activity android:name="com.myself.dienstagram.Na7Activity" />
+74-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:54:9-49
+74-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:54:19-46
+75        <activity android:name="com.myself.dienstagram.home5Activity" />
+75-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:55:9-50
+75-->/Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:55:19-48
+76    </application>
+77
+78</manifest>

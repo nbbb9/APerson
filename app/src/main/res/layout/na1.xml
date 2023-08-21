@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context="Na1Activity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="132dp"
+        android:text="고등학교 졸업하고 벌써 10년인가\n 민혁이는 성형외과에서 일하고, 현수는 되고싶었던 경찰 됐고, 다민이는 교회 카페에서 일하고, 은영이도 기자생활 2년째던가?\n세희는 뭐... 금수저니까\n연락은 자주하지만 다같이  만난지는 되게 오래되긴 했네.\n
+마지막으로 다 같이 본 게 반년전이었나? \n더 전인가?\n얘들이랑 평생 친구가 될 줄은 몰랐는데 다들 성격도 다르고 관심사도 달랐으니까\n생각해보니 처음에 어떻게 친해졌더라?\n
+접점이 뭐였지? 음...."
+        android:textColor="#FF0000"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:text="다음"
+        android:textSize="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+</android.support.constraint.ConstraintLayout>

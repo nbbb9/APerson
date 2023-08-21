@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.myself.dienstagram.app-mergeDebugResources-6:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/lyw/.gradle/caches/transforms-3/176e2cb87ca60634b7f06bd4bd6aa64f/transformed/appcompat-v7-28.0.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

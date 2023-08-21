@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_follow.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/follow.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na2.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na2.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_send.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/send.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_mail.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/mail.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ad3.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ad3.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na9.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na9.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_han_die.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/han_die.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_imageview1.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/imageview1.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_home5.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/home5.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_back_et_othermsgbox.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/back_et_othermsgbox.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_popup2_activity.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/popup2_activity.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_lee_die.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/lee_die.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_park_die.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/park_die.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na3.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na3.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_han_ps.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/han_ps.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_lee_ps.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/lee_ps.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_warning.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/warning.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_find.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/find.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_d14.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/d14.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_home4.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/home4.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat9.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat9.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_my_msgbox.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/my_msgbox.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_alert.mp3.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/alert.mp3"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat2.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat2.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_han_zom.gif.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/han_zom.gif"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_d5.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/d5.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_park_ps.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/park_ps.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_soo1.gif.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/soo1.gif"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_kim_ps.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/kim_ps.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_popup3_activity.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/popup3_activity.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat8.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat8.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_popup1_activity.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/popup1_activity.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_home3.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/home3.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_horrorsound2.mp3.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/horrorsound2.mp3"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_kim_post1.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/kim_post1.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat3.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat3.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_home.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/home.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ad4.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ad4.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_video.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/video.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_other_msgbox.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/other_msgbox.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ad1.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ad1.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_dday.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/dday.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na8.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na8.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_han_post1.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/han_post1.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/xml_backup_rules.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat10.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat10.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_profile.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/profile.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_han_zom_pic.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/han_zom_pic.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_circlebtn.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/circlebtn.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_jo_ps.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/jo_ps.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_heart.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/heart.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na12.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na12.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na5.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na5.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_d9.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/d9.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_d12.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/d12.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat6.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat6.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ad6.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ad6.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_d_12vid.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/d_12vid.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat5.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat5.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_directmessage2.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/directmessage2.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat11.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat11.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na11.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na11.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_d1.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/d1.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_horrorsound1.mp3.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/horrorsound1.mp3"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_plus.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/plus.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_soo4.gif.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/soo4.gif"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/xml_data_extraction_rules.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_d11.mp4.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/d11.mp4"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_defaultbackground.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/defaultbackground.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na6.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na6.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat4.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat4.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_jo_post1.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/jo_post1.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_directmessage3.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/directmessage3.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na10.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na10.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ad5.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ad5.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat12.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat12.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_home.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/home.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na4.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na4.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_lee_post1.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/lee_post1.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_park_post1.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/park_post1.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_directmessage.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/directmessage.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_soo5.gif.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/soo5.gif"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na7.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na7.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_mylike.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/mylike.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_ad2.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/ad2.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_user.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/user.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_activity_main.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_back_et_mymsgbox.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/back_et_mymsgbox.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_message.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/message.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_star.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/star.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_soo2.gif.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/soo2.gif"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_soo3.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/soo3.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable_bookmark.png.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable/bookmark.png"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na13.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na13.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/raw_before_doc_die.mp3.flat",
+        "source": "com.myself.dienstagram.app-main-10:/raw/before_doc_die.mp3"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_home2.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/home2.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.myself.dienstagram.app-main-10:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_na1.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/na1.xml"
+    },
+    {
+        "merged": "com.myself.dienstagram.app-merged_res-8:/layout_dmchat7.xml.flat",
+        "source": "com.myself.dienstagram.app-main-10:/layout/dmchat7.xml"
+    }
+]

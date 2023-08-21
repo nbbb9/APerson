@@ -1,0 +1,11 @@
+com.myself.dienstagram.app-coordinatorlayout-28.0.0-0 /Users/lyw/.gradle/caches/transforms-3/163de9b8717f6ccbb023046f332a2697/transformed/coordinatorlayout-28.0.0/res
+com.myself.dienstagram.app-appcompat-v7-28.0.0-1 /Users/lyw/.gradle/caches/transforms-3/176e2cb87ca60634b7f06bd4bd6aa64f/transformed/appcompat-v7-28.0.0/res
+com.myself.dienstagram.app-constraint-layout-2.0.4-2 /Users/lyw/.gradle/caches/transforms-3/3be7da04de2ebb89841f984c4e811a63/transformed/constraint-layout-2.0.4/res
+com.myself.dienstagram.app-support-compat-28.0.0-3 /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/res
+com.myself.dienstagram.app-pngs-4 /Users/lyw/Desktop/Android/Dienstagram/app/build/generated/res/pngs/debug
+com.myself.dienstagram.app-resValues-5 /Users/lyw/Desktop/Android/Dienstagram/app/build/generated/res/resValues/debug
+com.myself.dienstagram.app-packageDebugResources-6 /Users/lyw/Desktop/Android/Dienstagram/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.myself.dienstagram.app-packageDebugResources-7 /Users/lyw/Desktop/Android/Dienstagram/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.myself.dienstagram.app-merged_res-8 /Users/lyw/Desktop/Android/Dienstagram/app/build/intermediates/merged_res/debug
+com.myself.dienstagram.app-debug-9 /Users/lyw/Desktop/Android/Dienstagram/app/src/debug/res
+com.myself.dienstagram.app-main-10 /Users/lyw/Desktop/Android/Dienstagram/app/src/main/res

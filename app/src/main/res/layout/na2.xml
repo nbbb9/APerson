@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".Na2Activity">
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="160dp"
+        android:text="맞다 세희 때문이였지 1학년 때 내 옆자리 짝.\n애가 워낙 특이한 애라 갑자기 처음보는 애들한테 곧잘 말 걸곤 했지, 나한테도 그렇고.\n붙임성도 좋아서 세희가 한 명씩 데려와서 소개해줬었지.\n한 명 두 명씩 늘다가 그렇게 6명이서 논 지도 벌써 10년 인가 참 빠르네.\n성격이 진짜 모두 달랐는데 또 만나면 잘 놀았단 말이지. \n어렸을 땐 몰랐는데, 지금 생각하면 참 신기하네
+\n오랜만에 애들 만나고 싶다."
+        android:textColor="#FF0000"
+        android:textSize="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="84dp"
+        android:text="다음"
+        android:textSize="30dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView5" />
+
+</android.support.constraint.ConstraintLayout>

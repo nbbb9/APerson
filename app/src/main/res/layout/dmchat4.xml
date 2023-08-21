@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DMActivity4">
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageButton
+            android:layout_width="88dp"
+            android:layout_height="88dp"
+            android:background="@drawable/circlebtn"
+            android:gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/profile" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="\n단체 채팅"
+                android:textColor="@color/black"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="#친구들"
+                android:textSize="15dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--<ListView
+        android:id="@+id/listview"
+        android:layout_width="match_parent"
+        android:layout_height="560dp"
+        android:layout_weight="1"
+        android:divider="#ffffff"
+        android:dividerHeight="0dp"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2" />-->
+    <!--여기서부터 채팅창-->
+    <ScrollView
+        android:id="@+id/dmscroll3"
+        android:layout_width="match_parent"
+        android:layout_height="560dp"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="15dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="어때? 괜찮지???"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv2"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/profile"
+                    android:layout_alignParentRight="true"/>
+
+                <TextView
+                    android:id="@+id/tv_name2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="유가인"
+                    android:textColor="#333333"
+                    android:layout_toLeftOf="@+id/iv2"
+                    android:layout_marginRight="16dp"/>
+
+                <TextView
+                    android:id="@+id/tv_msg2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="아 시발"
+                    android:layout_below="@+id/tv_name2"
+                    android:layout_toLeftOf="@id/iv2"
+                    android:layout_marginRight="16dp"
+                    android:padding="12dp"
+                    android:maxWidth="250dp"
+                    android:background="@drawable/back_et_mymsgbox"
+                    android:textColor="#ffffff"/>
+                <TextView
+                    android:id="@+id/tv_time2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="13:35"
+                    android:textSize="12sp"
+                    android:layout_toLeftOf="@+id/tv_msg2"
+                    android:layout_marginRight="8dp"
+                    android:layout_alignBottom="@id/tv_msg2"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv3"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/profile"
+                    android:layout_alignParentRight="true"/>
+
+                <TextView
+                    android:id="@+id/tv_name3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="유가인"
+                    android:textColor="#333333"
+                    android:layout_toLeftOf="@+id/iv3"
+                    android:layout_marginRight="16dp"/>
+
+                <TextView
+                    android:id="@+id/tv_msg3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="폰 덜질 뻔 했잖아"
+                    android:layout_below="@+id/tv_name3"
+                    android:layout_toLeftOf="@id/iv3"
+                    android:layout_marginRight="16dp"
+                    android:padding="12dp"
+                    android:maxWidth="250dp"
+                    android:background="@drawable/back_et_mymsgbox"
+                    android:textColor="#ffffff"/>
+                <TextView
+                    android:id="@+id/tv_time3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="13:35"
+                    android:textSize="12sp"
+                    android:layout_toLeftOf="@+id/tv_msg3"
+                    android:layout_marginRight="8dp"
+                    android:layout_alignBottom="@id/tv_msg3"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv4"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/profile"
+                    android:layout_alignParentRight="true"/>
+
+                <TextView
+                    android:id="@+id/tv_name4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="유가인"
+                    android:textColor="#333333"
+                    android:layout_toLeftOf="@+id/iv4"
+                    android:layout_marginRight="16dp"/>
+
+                <TextView
+                    android:id="@+id/tv_msg4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="뭐하는 건데!?"
+                    android:layout_below="@+id/tv_name4"
+                    android:layout_toLeftOf="@id/iv4"
+                    android:layout_marginRight="16dp"
+                    android:padding="12dp"
+                    android:maxWidth="250dp"
+                    android:background="@drawable/back_et_mymsgbox"
+                    android:textColor="#ffffff"/>
+                <TextView
+                    android:id="@+id/tv_time4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="13:35"
+                    android:textSize="12sp"
+                    android:layout_toLeftOf="@+id/tv_msg4"
+                    android:layout_marginRight="8dp"
+                    android:layout_alignBottom="@id/tv_msg4"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv5"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv5"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name5"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv5"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="ㅋㅋㅋㅋㅋㅋㅋㅋㄲㄲㅋㅋㅋㅋㅋㅋㅋ"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg5"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg5"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv6"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv6"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name6"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv6"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="가벼운 복수??"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg6"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg6"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv7"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv7"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name7"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv7"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="그러게 왜 안놀아줘 ㅡㅡ"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg7"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg7"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv8"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv8"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name8"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv8"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="뭐 어차피 다 바쁠거 알고 있긴 했어"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg8"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg8"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv9"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv9"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name9"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv9"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="주말에 할로윈이니까 혼자 할로윈 파티나 가려구 화장 연습 하고 있었어"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg9"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg9"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/iv10"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/han_ps" />
+
+                <TextView
+                    android:id="@+id/tv_name10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@+id/iv10"
+                    android:text="세희"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_msg10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name10"
+                    android:layout_marginLeft="16dp"
+                    android:layout_toRightOf="@id/iv10"
+                    android:background="@drawable/back_et_othermsgbox"
+                    android:maxWidth="250dp"
+                    android:padding="12dp"
+                    android:text="반응 개웃기네 ㅋㅋㅎㅋ"
+                    android:textColor="#333333" />
+
+                <TextView
+                    android:id="@+id/tv_time10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@id/tv_msg10"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/tv_msg10"
+                    android:text="13:35"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+    </ScrollView>
+    <!--여기까지 채팅창-->
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#010607"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="4dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <Button
+            android:id="@+id/choice4btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#ff0000"
+            android:text="메세지 입력하기"
+            android:textSize="20dp"
+            android:inputType="textMultiLine"
+            android:maxLines="3"
+            android:padding="10dp"
+            android:onClick="mOnPopupClick"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:backgroundTint="#ff8800"
+            android:text="전송" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

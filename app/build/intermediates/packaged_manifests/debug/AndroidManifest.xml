@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.myself.dienstagram"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="26"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/Theme.Dienstagram" >
+        <activity
+            android:name="com.myself.dienstagram.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.myself.dienstagram.WarningActivity" />
+        <activity android:name="com.myself.dienstagram.HomeActivity" />
+        <activity
+            android:name="com.myself.dienstagram.mylikeActivity"
+            android:label="AlertActivity" />
+        <activity
+            android:name="com.myself.dienstagram.DirectMessageActivity"
+            android:label="DMActivity" />
+        <activity
+            android:name="com.myself.dienstagram.dmchatActivity"
+            android:label="dmchatActivity" />
+        <activity
+            android:name="com.myself.dienstagram.popup1Activity"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="com.myself.dienstagram.DMActivity2" />
+        <activity
+            android:name="com.myself.dienstagram.popup2Activity"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="com.myself.dienstagram.Na1Activity" />
+        <activity android:name="com.myself.dienstagram.Na2Activity" />
+        <activity android:name="com.myself.dienstagram.DMActivity3" />
+        <activity android:name="com.myself.dienstagram.Na3Activity" />
+        <activity android:name="com.myself.dienstagram.home2Activity" />
+        <activity android:name="com.myself.dienstagram.DirectMessageActivity2" />
+        <activity android:name="com.myself.dienstagram.Na4Activity" />
+        <activity android:name="com.myself.dienstagram.ImageView1" />
+        <activity android:name="com.myself.dienstagram.DMActivity4" />
+        <activity android:name="com.myself.dienstagram.Na5Activity" />
+        <activity android:name="com.myself.dienstagram.DMActivity5" />
+        <activity
+            android:name="com.myself.dienstagram.popup3Activity"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity android:name="com.myself.dienstagram.DMActivity6" />
+        <activity android:name="com.myself.dienstagram.D_12vidActivity" />
+        <activity android:name="com.myself.dienstagram.home3Activity" />
+        <activity android:name="com.myself.dienstagram.Na6Activity" />
+        <activity android:name="com.myself.dienstagram.home4Activity" />
+        <activity android:name="com.myself.dienstagram.DirectMessageActivity3" />
+        <activity android:name="com.myself.dienstagram.DMActivity7" />
+        <activity android:name="com.myself.dienstagram.Na7Activity" />
+        <activity android:name="com.myself.dienstagram.home5Activity" />
+    </application>
+
+</manifest>

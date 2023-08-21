@@ -1,0 +1,298 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/lyw/.gradle/caches/transforms-3/3be7da04de2ebb89841f984c4e811a63/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lyw/.gradle/caches/transforms-3/176e2cb87ca60634b7f06bd4bd6aa64f/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lyw/.gradle/caches/transforms-3/53f9a967fbe4d8886ac406b372ab1e09/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9999d8b064ed0aec15c78a6f2d201bf0/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lyw/.gradle/caches/transforms-3/5912fd34bcd11a96378d337cb34bf76f/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lyw/.gradle/caches/transforms-3/8127c882e63deaf54c6823edad9d0d99/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9ab05ce1dcc93f3504dd89b06b5f8006/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f7d1a34efc74dcf1bed32957bac0bf79/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lyw/.gradle/caches/transforms-3/be9193d8bf8bceee1d9896f452b482e4/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/163de9b8717f6ccbb023046f332a2697/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f0c1ddddaeeb6a0c245d7ff29498efa5/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/000bf074fed85c4be34718ab87355d4b/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d973a0641a4fdf3f4290aa4974f1875d/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/728ae6045b41e2d1f17b930b2f126724/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f6d5ae9668b652db27e19423032c1c91/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d8e7999a1d02387939b86944b25cfbe1/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lyw/.gradle/caches/transforms-3/a25d9dd5936ac398e663d1e8234156dc/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lyw/.gradle/caches/transforms-3/33c215dc9c6c4dfbcae4f8b14c45681b/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lyw/.gradle/caches/transforms-3/c0e79e8dd451fe736c4d5e281b5e9dee/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lyw/.gradle/caches/transforms-3/33e7785adff4f2f376189e68fc077cbe/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9fc2d5d52bf893bfad1c1fb17b888a36/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lyw/.gradle/caches/transforms-3/5891fa460a3ab417a50267dbe4ae507d/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lyw/.gradle/caches/transforms-3/ed1f5623c620827c7a6d877b3ac4ad64/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lyw/.gradle/caches/transforms-3/fa6bfb40545b18e04732844c26c91597/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lyw/.gradle/caches/transforms-3/29394f5304979126d1242735f2487979/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lyw/.gradle/caches/transforms-3/dce00f9d154866288b53bdb3705ea6aa/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:6:22-63
+application
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:8:5-57:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/lyw/.gradle/caches/transforms-3/3be7da04de2ebb89841f984c4e811a63/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/lyw/.gradle/caches/transforms-3/3be7da04de2ebb89841f984c4e811a63/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d8e7999a1d02387939b86944b25cfbe1/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d8e7999a1d02387939b86944b25cfbe1/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:13:9-41
+	android:fullBackupContent
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:11:9-54
+	tools:targetApi
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:16:9-29
+	android:icon
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:15:9-49
+	android:dataExtractionRules
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:10:9-65
+activity#com.myself.dienstagram.MainActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:exported
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:18:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.myself.dienstagram.WarningActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:27:19-50
+activity#com.myself.dienstagram.HomeActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:28:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:28:19-47
+activity#com.myself.dienstagram.mylikeActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:29:9-82
+	android:label
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:29:50-79
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:29:19-49
+activity#com.myself.dienstagram.DirectMessageActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:30:9-85
+	android:label
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:30:57-83
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:30:19-56
+activity#com.myself.dienstagram.dmchatActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:31:9-82
+	android:label
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:31:50-80
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:31:19-49
+activity#com.myself.dienstagram.popup1Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:32:9-96
+	android:theme
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:32:50-93
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:32:19-49
+activity#com.myself.dienstagram.DMActivity2
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:33:9-48
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:33:19-46
+activity#com.myself.dienstagram.popup2Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:34:9-95
+	android:theme
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:34:50-93
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:34:19-49
+activity#com.myself.dienstagram.Na1Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:35:19-46
+activity#com.myself.dienstagram.Na2Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:36:9-48
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:36:19-46
+activity#com.myself.dienstagram.DMActivity3
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:37:9-48
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:37:19-46
+activity#com.myself.dienstagram.Na3Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:38:9-48
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:38:19-46
+activity#com.myself.dienstagram.home2Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:39:9-50
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:39:19-48
+activity#com.myself.dienstagram.DirectMessageActivity2
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:40:19-57
+activity#com.myself.dienstagram.Na4Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:41:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:41:19-46
+activity#com.myself.dienstagram.ImageView1
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:42:9-47
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:42:19-45
+activity#com.myself.dienstagram.DMActivity4
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:43:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:43:19-46
+activity#com.myself.dienstagram.Na5Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:44:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:44:19-46
+activity#com.myself.dienstagram.DMActivity5
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:45:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:45:19-46
+activity#com.myself.dienstagram.popup3Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:46:9-95
+	android:theme
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:46:50-93
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:46:19-49
+activity#com.myself.dienstagram.DMActivity6
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:47:9-48
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:47:19-46
+activity#com.myself.dienstagram.D_12vidActivity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:48:9-53
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:48:19-50
+activity#com.myself.dienstagram.home3Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:49:9-51
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:49:19-48
+activity#com.myself.dienstagram.Na6Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:50:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:50:19-46
+activity#com.myself.dienstagram.home4Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:51:9-51
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:51:19-48
+activity#com.myself.dienstagram.DirectMessageActivity3
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:52:9-60
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:52:19-57
+activity#com.myself.dienstagram.DMActivity7
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:53:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:53:19-46
+activity#com.myself.dienstagram.Na7Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:54:9-49
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:54:19-46
+activity#com.myself.dienstagram.home5Activity
+ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:55:9-50
+	android:name
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml:55:19-48
+uses-sdk
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/lyw/.gradle/caches/transforms-3/3be7da04de2ebb89841f984c4e811a63/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /Users/lyw/.gradle/caches/transforms-3/3be7da04de2ebb89841f984c4e811a63/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lyw/.gradle/caches/transforms-3/176e2cb87ca60634b7f06bd4bd6aa64f/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/lyw/.gradle/caches/transforms-3/176e2cb87ca60634b7f06bd4bd6aa64f/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lyw/.gradle/caches/transforms-3/53f9a967fbe4d8886ac406b372ab1e09/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/lyw/.gradle/caches/transforms-3/53f9a967fbe4d8886ac406b372ab1e09/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9999d8b064ed0aec15c78a6f2d201bf0/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9999d8b064ed0aec15c78a6f2d201bf0/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lyw/.gradle/caches/transforms-3/5912fd34bcd11a96378d337cb34bf76f/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/lyw/.gradle/caches/transforms-3/5912fd34bcd11a96378d337cb34bf76f/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lyw/.gradle/caches/transforms-3/8127c882e63deaf54c6823edad9d0d99/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/lyw/.gradle/caches/transforms-3/8127c882e63deaf54c6823edad9d0d99/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9ab05ce1dcc93f3504dd89b06b5f8006/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9ab05ce1dcc93f3504dd89b06b5f8006/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f7d1a34efc74dcf1bed32957bac0bf79/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f7d1a34efc74dcf1bed32957bac0bf79/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lyw/.gradle/caches/transforms-3/be9193d8bf8bceee1d9896f452b482e4/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/lyw/.gradle/caches/transforms-3/be9193d8bf8bceee1d9896f452b482e4/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/163de9b8717f6ccbb023046f332a2697/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/163de9b8717f6ccbb023046f332a2697/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f0c1ddddaeeb6a0c245d7ff29498efa5/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f0c1ddddaeeb6a0c245d7ff29498efa5/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/000bf074fed85c4be34718ab87355d4b/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/000bf074fed85c4be34718ab87355d4b/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d973a0641a4fdf3f4290aa4974f1875d/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d973a0641a4fdf3f4290aa4974f1875d/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/728ae6045b41e2d1f17b930b2f126724/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/lyw/.gradle/caches/transforms-3/728ae6045b41e2d1f17b930b2f126724/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f6d5ae9668b652db27e19423032c1c91/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/lyw/.gradle/caches/transforms-3/f6d5ae9668b652db27e19423032c1c91/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/lyw/.gradle/caches/transforms-3/bc75f1cc23ddb61cebc1fd590824ad73/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d8e7999a1d02387939b86944b25cfbe1/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/lyw/.gradle/caches/transforms-3/d8e7999a1d02387939b86944b25cfbe1/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lyw/.gradle/caches/transforms-3/a25d9dd5936ac398e663d1e8234156dc/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/lyw/.gradle/caches/transforms-3/a25d9dd5936ac398e663d1e8234156dc/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lyw/.gradle/caches/transforms-3/33c215dc9c6c4dfbcae4f8b14c45681b/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/lyw/.gradle/caches/transforms-3/33c215dc9c6c4dfbcae4f8b14c45681b/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lyw/.gradle/caches/transforms-3/c0e79e8dd451fe736c4d5e281b5e9dee/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/lyw/.gradle/caches/transforms-3/c0e79e8dd451fe736c4d5e281b5e9dee/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lyw/.gradle/caches/transforms-3/33e7785adff4f2f376189e68fc077cbe/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/lyw/.gradle/caches/transforms-3/33e7785adff4f2f376189e68fc077cbe/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9fc2d5d52bf893bfad1c1fb17b888a36/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/lyw/.gradle/caches/transforms-3/9fc2d5d52bf893bfad1c1fb17b888a36/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lyw/.gradle/caches/transforms-3/5891fa460a3ab417a50267dbe4ae507d/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/lyw/.gradle/caches/transforms-3/5891fa460a3ab417a50267dbe4ae507d/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lyw/.gradle/caches/transforms-3/ed1f5623c620827c7a6d877b3ac4ad64/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/lyw/.gradle/caches/transforms-3/ed1f5623c620827c7a6d877b3ac4ad64/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lyw/.gradle/caches/transforms-3/fa6bfb40545b18e04732844c26c91597/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/lyw/.gradle/caches/transforms-3/fa6bfb40545b18e04732844c26c91597/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lyw/.gradle/caches/transforms-3/29394f5304979126d1242735f2487979/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/lyw/.gradle/caches/transforms-3/29394f5304979126d1242735f2487979/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lyw/.gradle/caches/transforms-3/dce00f9d154866288b53bdb3705ea6aa/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/lyw/.gradle/caches/transforms-3/dce00f9d154866288b53bdb3705ea6aa/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lyw/Desktop/Android/Dienstagram/app/src/main/AndroidManifest.xml
